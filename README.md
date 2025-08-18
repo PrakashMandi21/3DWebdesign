@@ -103,7 +103,7 @@ Adjust AOS attributes in HTML:
 ## 📁 Project Structure
 
 ```
-3D-startup-app/
+3DWebdesign/
 ├── index.html          # Main HTML file
 ├── style.css           # All styling and animations
 ├── README.md          # This file
