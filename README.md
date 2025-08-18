@@ -1,4 +1,4 @@
-# 🚀 3D Startup Landing Page
+# 🚀 3D Website Landing Page
 
 A stunning, modern landing page featuring 3D elements, smooth animations, and a futuristic design. Built with pure HTML, CSS, and JavaScript, enhanced with Spline 3D graphics and AOS animations.
 
