@@ -59,7 +59,7 @@ The layout adapts seamlessly across devices:
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd 3D-startup-app
+   cd 3DWebdesign
    ```
 
 2. **Open in browser**
