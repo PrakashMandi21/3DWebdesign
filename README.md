@@ -64,19 +64,6 @@ The layout adapts seamlessly across devices:
 
 2. **Open in browser**
    - Simply open `index.html` in your browser
-   - Or use a local server:
-     ```bash
-     # Using Python
-     python -m http.server 8000
-     
-     # Using Node.js
-     npx serve .
-     ```
-
-3. **View the site**
-   - Navigate to `http://localhost:8000` (if using local server)
-
-## 🎨 Customization
 
 ### Changing Colors
 Edit the CSS variables in `style.css`:
